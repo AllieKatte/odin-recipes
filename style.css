@@ -39,6 +39,12 @@ img {
   margin: auto;
 }
 
+ul,
+ol {
+  display: inline-block;
+  text-align: left;
+}
+
 .container {
   text-align: center;
   width: 50%;
