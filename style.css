@@ -1,3 +1,12 @@
+:root {
+  --black:    #4c4f69;
+  --blue:     #1e66f5;
+  --lavender: #7287fd;
+  --mauve:    #8839ef;
+  --pink:     #ea76cb;
+  --white:    #eff1f5;
+}
+
 * {
   font-family: 'Noto Sans', Arial, sans-serif;
 }
