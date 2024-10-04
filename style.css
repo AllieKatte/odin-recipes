@@ -32,6 +32,13 @@ body {
   color: var(--black);
 }
 
+img {
+  display: block;
+  height: auto;
+  width: 380px;
+  margin: auto;
+}
+
 .container {
   text-align: center;
   width: 50%;
