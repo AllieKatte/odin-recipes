@@ -11,6 +11,22 @@
   font-family: 'Noto Sans', Arial, sans-serif;
 }
 
+a:link {
+  color: var(--blue);
+}
+
+a:visited {
+  color: var(--mauve);
+}
+
+a:hover {
+  color: var(--lavender);
+}
+
+a:active {
+  color: var(--pink);
+}
+
 body {
   background-color: var(--white);
   color: var(--black);
