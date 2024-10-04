@@ -10,3 +10,8 @@
 * {
   font-family: 'Noto Sans', Arial, sans-serif;
 }
+
+body {
+  background-color: var(--white);
+  color: var(--black);
+}
